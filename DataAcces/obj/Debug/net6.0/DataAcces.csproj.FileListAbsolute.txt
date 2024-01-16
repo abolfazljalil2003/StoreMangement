@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\WpfApp2\DataAcces\bin\Debug\net6.0\DataAcces.deps.json
+C:\Users\Lenovo\source\repos\WpfApp2\DataAcces\bin\Debug\net6.0\DataAcces.dll
+C:\Users\Lenovo\source\repos\WpfApp2\DataAcces\bin\Debug\net6.0\DataAcces.pdb
+C:\Users\Lenovo\source\repos\WpfApp2\DataAcces\obj\Debug\net6.0\DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\WpfApp2\DataAcces\obj\Debug\net6.0\DataAcces.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\WpfApp2\DataAcces\obj\Debug\net6.0\DataAcces.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\WpfApp2\DataAcces\obj\Debug\net6.0\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WpfApp2\DataAcces\obj\Debug\net6.0\DataAcces.dll
+C:\Users\Lenovo\source\repos\WpfApp2\DataAcces\obj\Debug\net6.0\refint\DataAcces.dll
+C:\Users\Lenovo\source\repos\WpfApp2\DataAcces\obj\Debug\net6.0\DataAcces.pdb
+C:\Users\Lenovo\source\repos\WpfApp2\DataAcces\obj\Debug\net6.0\ref\DataAcces.dll
