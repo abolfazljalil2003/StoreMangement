@@ -64,15 +64,19 @@ namespace WpfApp2
             else
             {
 
-                product prod = new product()
-                {
-                    Id = productDataAccess.GetNextId(),
-                    Name = tboxName.Text,
-                    Price = Convert.ToDecimal(tboxPrice.Text),
-                    AvilebleCount = Convert.ToInt32(tboxAvilebleCount.Text),
 
-                };
-                productDataAccess.AddProduct(prod);
+                // Id = productDataAccess.GetNextId(),
+                string Name = tboxName.Text;
+                int Price = Convert.ToInt32(tboxPrice.Text);
+                int AvilebleCount = Convert.ToInt32(tboxAvilebleCount.Text);
+
+
+              int result= productDataAccess.AddProduct(1,Name,Price,AvilebleCount);
+                string message = "";
+                if (result == 1){
+                    MessageBox.Show("Product was added!, result code=" + result);
+                }else
+                    MessageBox.Show("Product was not added!, result code=" + result);
 
             }
             this.Close();

@@ -79,7 +79,14 @@ namespace WpfApp2
                     Department = (Department)Cdepartment.SelectedIndex
 
                 };
-                employeeDataAccess.AddEmployee(employee);
+                int result = employeeDataAccess.AddEmployee(employee);
+
+                if (result == 1)
+                {
+                    MessageBox.Show("Employee was added!, result code=" + result);
+                }
+                else
+                    MessageBox.Show("Employee was not added!, result code=" + result);
             }
             
             

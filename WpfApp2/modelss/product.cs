@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WpfApp2.Db;
 
 namespace DataAcces.Models
 {
@@ -18,5 +19,8 @@ namespace DataAcces.Models
             return str;
             
         }
+
+     
+       
     }
 }
